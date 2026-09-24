@@ -30,6 +30,4 @@ See [How to contribute to VFPREST](.github/CONTRIBUTING.md) for details on how t
 
 ## Releases
 
-The latest version is *** TODO: 2025.07.29 *** TODO: (the cVersion property of the Document class).
-
 See the [change log](ChangeLog.md) for release information.
