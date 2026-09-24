@@ -1,0 +1,47 @@
+# VFP generated files
+*.err
+*.ERR
+
+# VFP compiled files
+*.fxp
+*.FXP
+
+# VFP backup files
+*.bak
+*.BAK
+*.tbk
+*.TBK
+
+# Misc backup files
+*.orig
+*.ORIG
+*.save
+*.SAVE
+*.zip
+*.ZIP
+*.7Z
+*.7z
+
+# Other files
+*.chw
+*.suo
+*.docstates
+*.pdb
+
+# Folders to exclude
+bin
+obj
+.vs
+packages
+
+# Specific files
+setaccess.prg
+Notes.txt
+Documentation/*.DBF
+Documentation/*.CDX
+S3/*
+samples/*.DBF
+samples/*.CDX
+samples/*.FPT
+samples/settings.ini
+samples/test.*
